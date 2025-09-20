@@ -1,0 +1,32 @@
+{
+    "jadwal": [
+        {
+            "mataKuliah": "Data Sains",
+            "hari": "Rabu",
+            "jam": "09.35-12.05",
+            "ruangan": "F3.14",
+            "dosen": "Zahra Putri",
+            "sks": 3
+        },
+        {
+            "mataKuliah": "Jaringan Komputer",
+            "hari": "Sabtu",
+            "jam": "15.00-16.40",
+            "ruangan": "F4.6",
+            "dosen": "Auliya Lestasi",
+            "sks": 2
+        }
+    ],
+    "tugas": [
+        {
+            "tugas": "Data Sains",
+            "deadline": "2025-09-21",
+            "status": "Selesai"
+        },
+        {
+            "tugas": "paw",
+            "deadline": "2025-09-21",
+            "status": "Belum selesai"
+        }
+    ]
+}
